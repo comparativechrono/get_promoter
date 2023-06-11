@@ -40,5 +40,3 @@ python get_promoter.py -s human -g BRCA2,P53
 This command retrieves the promoter sequences for human BRCA2 and P53 genes.
 
 ---
-
-Remember to replace "get_promoter.py" with the actual filename of your script.
